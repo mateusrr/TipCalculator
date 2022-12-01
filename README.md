@@ -1,12 +1,12 @@
 <h1 align="center">Calculadora de gorjeta</h1>
 <p align="center">
-<img src="">
+<img src="https://user-images.githubusercontent.com/72825535/205128545-92d3c34c-9f87-44ed-8071-b4561750c2a1.gif">
 </p>
 
 <p align="center"> <img src="https://img.shields.io/github/license/mateusrr/TipCalculator"/></p>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM ANDAMENTO%20&color=RED&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO%20&color=GREEN&style=for-the-badge"/>
 </p>
 
 <h2 align="center">Descrição do Projeto</h2>
